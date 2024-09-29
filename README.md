@@ -17,7 +17,7 @@
 
 ## DS Programs
 
-1. **[Node Creation of Singly Linked List](https://github.com/your-username/your-repo/blob/main/NodeCreationOfSinglyLinkedList.c)**
+1. [Node Creation of Singly Linked List](NodecreationofSinglyLinkedList.c)
  
 ## Contact
 

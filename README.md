@@ -17,10 +17,8 @@
 
 ## DS Programs
 
-1. **[Node creation of Singly linked list](https://github.com/your-username/your-repo/blob/main/NodecreationofSinglyLinkedList.c)**
-
-1. [Node creation of Singly linked list](Node creation of Singly Linked List.c)
-
+1. **[Node Creation of Singly Linked List](https://github.com/your-username/your-repo/blob/main/NodeCreationOfSinglyLinkedList.c)**
+ 
 ## Contact
 
 - Email - timstittus1@gmail.com

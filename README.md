@@ -17,10 +17,11 @@
 
 ## DS Programs
 
-1. [Node Creation of Singly Linked List](NodecreationofSinglyLinkedList.c)
-2. [Dynamic Memory Allocation](dynamicMemoryAllocation.c)
-3. [Circular Queue](circularqueue.c)
-4. [Polynomial Addition Using Array](polynomialadditionusingarray.c.txt)
+1. [Linear Search using Array](linearSearch.c)
+2. [Node Creation of Singly Linked List](NodecreationofSinglyLinkedList.c)
+3. [Dynamic Memory Allocation](dynamicMemoryAllocation.c)
+4. [Circular Queue](circularqueue.c)
+5. [Polynomial Addition Using Array](polynomialadditionusingarray.c.txt)
 
 ## Contact
 

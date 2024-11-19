@@ -18,10 +18,19 @@
 ## DS Programs
 
 1. [Linear Search using Array](linearSearch.c)
-2. [Node Creation of Singly Linked List](NodecreationofSinglyLinkedList.c)
-3. [Dynamic Memory Allocation](dynamicMemoryAllocation.c)
-4. [Circular Queue](circularqueue.c)
-5. [Polynomial Addition Using Array](polynomialadditionusingarray.c.txt)
+2. [Binary Search using Array](binarySearch.c)
+3. [Sparse Matrix using Array](sparseMatrix.c)
+4. [Node Creation of Singly Linked List](NodecreationofSinglyLinkedList.c)
+5. [Dynamic Memory Allocation](dynamicMemoryAllocation.c)
+6. [Stack operations using Array](stackOperationsUsingArray.c)
+7. [Queue operations using Array](queueUsingArray.c)
+8. [Circular Queue](circularqueue.c)
+9. [Conversion of Infix to Postfix](infixToPostfixConversion.c)
+10. [Polynomial Addition Using Array](polynomialadditionusingarray.c.txt)
+11. [Linked List Operations](LinkedList.c)
+12. [Insertion,Selection,Quick and Merge sorting techniques](insertionSelectionQuick&MergeSortings.c)
+13. [Binary tree using Array](binaryTreeUsingArray.c)
+14. [Railway Ticket Booking System](railwayTicketBooking.c)
 
 ## Contact
 
